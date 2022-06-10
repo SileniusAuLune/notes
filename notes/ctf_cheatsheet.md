@@ -40,6 +40,15 @@ CTF Cheatsheet
     `-d '.'` delimiter of fields in this case `.`
     `-f 3-5` cut out all but fields 3,4,5
     
+`smbclient`
+    lets you access and smb share drive from kali
+    for commands see `oscp`
+    
+`smbmount`
+    lets you mount a share on kali
+    https://www.techrepublic.com/article/use-smbmount-and-smbclient-to-access-windows-resources-from-linux/
+    `smbmount //share_location /mount/point/on/me
+    
 `sort file.txt | uniq -u`
     -u only displays unique lines
     
