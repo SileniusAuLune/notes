@@ -11,6 +11,11 @@ CTF Cheatsheet
 `tar -zxvf`
     extract file to current dir
     
+`script`
+    output all terminal shit to a saved file or typescript
+    `script --t=<logfile> -q <script file>` to start a session and save to files
+    
+    
 `gzip -d`
     decompress a .gz
 
