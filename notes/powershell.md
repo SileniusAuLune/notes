@@ -1,2 +1,0 @@
-`Get-NetIPAddress`
-    like ipconfig
