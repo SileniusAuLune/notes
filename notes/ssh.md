@@ -45,7 +45,7 @@ SOCKS5 proxy and firefox thru ssh
 ----------------------------------------------------------------------
 # install `foxyproxy` in firefox and configure:
     * proxy type: SOCKS5
-    * proxy ip: 172.0.0.1
+    * proxy ip: 127.0.0.1
     * port: 7000
     * no username or password
 # connect to the client you want to use the webrowser on
